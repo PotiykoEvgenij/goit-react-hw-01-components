@@ -15,7 +15,6 @@ export const App = () => {
         color: '#010101'
       }}
     >
-      Hi boy!!!
       <Profile />
       <Statistics />
       <FriendList />
