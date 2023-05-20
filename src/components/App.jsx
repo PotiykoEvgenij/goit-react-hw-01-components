@@ -3,7 +3,7 @@ import { Statistics } from './statistics/Statistics';
 import { FriendList } from './friendList/FriendList';
 import { TransactionHistory } from './transactionHistory/TransactionHistory';
 
-import user from  '../data/user.json'
+import user from './path/to/user.json';
 
 export const App = () => {
   return (
