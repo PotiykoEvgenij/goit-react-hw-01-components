@@ -14,8 +14,9 @@ export const App = () => {
       style={{
         // height: '100vh',
         // display: 'flex',
-        // justifyContent: 'center',
-        // alignItems: 'center',
+        justifyContent: 'center',
+        alignItems: 'center',
+        textAlign: 'center',
         // fontSize: 40,
         // color: '#010101'
       }}
